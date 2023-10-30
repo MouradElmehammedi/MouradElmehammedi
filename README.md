@@ -1,4 +1,4 @@
-# Hi there, I'm Mourad 👋  Full Stack Developer | JavaScript & React.js
+# Hi there 👋, I'm Mourad Full Stack Developer | JavaScript & React.js
 
 Passionate about JavaScript and React.js. With a keen eye for detail and a passion for excellence, I'm dedicated to creating user-friendly web applications
 
