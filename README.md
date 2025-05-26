@@ -44,5 +44,3 @@ Passionate about JavaScript and React.js. With a keen eye for detail and a passi
 &nbsp;&nbsp;
 [![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/mourad-el-mehammedi-47725a17a#gh-light-mode-only)
 [![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mourad-el-mehammedi-47725a17a#gh-dark-mode-only)
-
----
