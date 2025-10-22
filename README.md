@@ -1,13 +1,14 @@
 # Hi there 👋, I'm Mourad | Full Stack Developer
 
-Passionate about JavaScript and React.js. With a keen eye for detail and a passion for excellence, I'm dedicated to creating user-friendly and scalable web applications. I enjoy transforming ideas into intuitive digital products through clean code and teamwork.
+Skilled in React, Next.js and TypeScript for front-end development, as well as NodeJS and Java/Spring Boot for back-end development.
+Passionate about creating high-quality, well-structured, and scalable solutions. I enjoy collaborating with teams to deliver performant and maintainable applications.
 
 ---
 
 ### 💼 About Me
 
 - 🛠️ I build and maintain full-stack platforms.
-- 💡 I’m experienced with **React**, **Next.js**, **NestJS**, and **NodeJS**.
+- 💡 I’m experienced with **React**, **Next.js**, **NestJS**, **NodeJS**, **Java/SpringBoot**.
 - 💬 Languages: Arabic, English, French
 - 🌍 Website: [mourad.vercel.app](https://mourad.vercel.app)
 
