@@ -8,49 +8,23 @@ Software Engineer with 6+ years of experience building scalable web and mobile a
 
 ### 🚀 Things I ship on the side
 
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| [**AquaBalance Pro**](https://aquabalance-pro.vercel.app/) | Pool water analysis SaaS — enter measurements, get precise dosing plus a branded PDF report in under three minutes | Next.js · TypeScript · Tailwind |
-| [**BookBreeze**](https://bookbreeze-read.vercel.app/) | Private, offline-friendly reader for PDFs, notes and images with text-to-speech, translation and document Q&A | Next.js · Groq · PWA |
-| [**FacturaPro**](https://facturapro.vercel.app/) | Invoicing for Moroccan freelancers and small businesses — create, send and track invoices over WhatsApp, ICE compliant | Next.js · MongoDB · NextAuth |
-| [**ParloAI**](https://parloai.vercel.app/) | AI-powered French learning with personalized exercises and adaptive progression, no account needed | Next.js · OpenAI · Tailwind |
-| [**LearnVault**](https://vaultlearn-player.vercel.app/) | Offline-first workspace for downloaded video and audio courses, with saved progress and a Pomodoro timer | Next.js · File System API |
-| [**IconBuilder**](https://icon-builder-iota.vercel.app/) | Generates iOS and Android app icons from one image — all processing stays in the browser | Next.js · TypeScript |
+- [**AquaBalance Pro**](https://aquabalance-pro.vercel.app/) — pool water analysis SaaS with PDF reports
+- [**BookBreeze**](https://bookbreeze-read.vercel.app/) — offline reader with text-to-speech and document Q&A
+- [**FacturaPro**](https://facturapro.vercel.app/) — WhatsApp invoicing for Moroccan freelancers
+- [**ParloAI**](https://parloai.vercel.app/) — AI-powered French learning, no account needed
+- [**LearnVault**](https://vaultlearn-player.vercel.app/) — offline-first player for downloaded courses
+- [**IconBuilder**](https://icon-builder-iota.vercel.app/) — iOS and Android app icons, generated in-browser
 
-More at **[mourad.vercel.app](https://mourad.vercel.app)** — including CityBikes Tracker, SaveKit and iChatView.
+More at [mourad.vercel.app](https://mourad.vercel.app)
 
 ---
 
 ### 🧰 Tech I work with
 
-**Frontend**
-
-<img alt="React" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
-<img alt="Next.js" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />&nbsp;&nbsp;
-<img alt="TypeScript" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
-<img alt="JavaScript" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-<img alt="Tailwind CSS" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-
-**Backend**
-
-<img alt="Node.js" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
-<img alt="NestJS" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />&nbsp;&nbsp;
-<img alt="Java" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;
-<img alt="Spring Boot" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
-**Data**
-
-<img alt="PostgreSQL" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
-<img alt="MySQL" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
-<img alt="MongoDB" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;
-<img alt="Redis" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-
-**Delivery & quality**
-
-<img alt="Docker" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
-<img alt="AWS" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
-<img alt="Jest" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;&nbsp;
-<img alt="Git" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+- **Frontend** — React · Next.js · TypeScript · React Native · Tailwind CSS
+- **Backend** — Node.js · NestJS · Express · Java · Spring Boot · REST · GraphQL
+- **Data** — PostgreSQL · MySQL · MongoDB · Redis · Prisma
+- **Delivery** — Docker · CI/CD · AWS · Vercel · Jest · Git
 
 ---
 
@@ -60,7 +34,7 @@ More at **[mourad.vercel.app](https://mourad.vercel.app)** — including CityBik
 - 🎓 Specialized technician diploma in software development — ISTA NTIC, Nador
 - 📜 EF SET English Certificate (B2)
 - 💬 Arabic (native) · French (B1–B2) · English (B2)
-- 📍 Nador, Morocco
+- 📍 Nador, Morocco 
 
 ---
 
