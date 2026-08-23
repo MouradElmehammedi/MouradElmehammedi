@@ -40,20 +40,4 @@ More at [mourad.vercel.app](https://mourad.vercel.app)
 
 ### 🌐 Connect with me
 
-<p>
-  <a href="https://mourad.vercel.app" title="Portfolio">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./img/globe-dark.svg">
-      <img src="./img/globe-light.svg" alt="Portfolio" width="34" height="34">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mourad-el-mehammedi-47725a17a" title="LinkedIn">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./img/linkedin-dark.svg">
-      <img src="./img/linkedin-light.svg" alt="LinkedIn" width="34" height="34">
-    </picture>
-  </a>
-</p>
-
-📫 Reach me at [**mourad.elmehammedi@gmail.com**](mailto:mourad.elmehammedi@gmail.com)
+🌍 [**Portfolio**](https://mourad.vercel.app) · 💼 [**LinkedIn**](https://www.linkedin.com/in/mourad-el-mehammedi-47725a17a) · 📫 [**mourad.elmehammedi@gmail.com**](mailto:mourad.elmehammedi@gmail.com)
